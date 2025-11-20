@@ -1,5 +1,7 @@
 # Sistema de Rutas Megabus - Pereira
 
+Universidad Tecnologica de Pereira 2025
+
 ## Descripción del Sistema
 
 Este proyecto implementa un sistema de búsqueda y análisis de rutas para el sistema de transporte Megabus de Pereira, Colombia. El sistema utiliza teoría de grafos para modelar la red de transporte público y ofrece diferentes algoritmos de búsqueda para encontrar rutas óptimas según diversos criterios (tiempo, costo, transbordos).
